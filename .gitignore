@@ -1,2 +1,4 @@
 .httr-oauth
 config.R
+.Rhistory
+.ipynb_checkpoints*
